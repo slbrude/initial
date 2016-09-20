@@ -1,5 +1,6 @@
 <year>2017
   <event>MWPro</event>
   <camber><front>-3.5</front><rear>-3</rear></camber>
+  <tirepressure><front>30</front><rear>35</rear></tirepressure>
 
 </year>
